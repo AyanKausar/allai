@@ -1,0 +1,33 @@
+#navbar{
+    height:55px ;
+    margin-bottom: 77px;
+    background-image: url(https://www.shutterstock.com/image-vector/quantum-computer-technologies-concept-futuristic-600nw-2267461667.jpg);
+}
+
+#logo{
+    text-decoration: solid;
+    font-size: 45px;
+    color: whitesmoke;
+    margin-left: 560px;
+}
+
+#search{
+    margin-left: 250px;
+}
+
+#a{
+    margin-bottom: 77px;
+}
+
+#c{
+    margin: 200px 390px 200px 415px; 
+}
+
+
+#m{
+    margin: 200px 385px 200px 405px; 
+}
+
+#body{
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Falphacoders.com%2Fdark-anime-wallpapers&psig=AOvVaw14AAwJ3PXliDVi2pfUfV-B&ust=1733680624689000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDPyuqdlooDFQAAAAAdAAAAABAJ);
+}
